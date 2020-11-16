@@ -4,5 +4,5 @@ voila
 geemap
 pandas
 matplotlib
-altair
+plotly
 
