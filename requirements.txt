@@ -4,4 +4,5 @@ voila
 geemap
 pandas
 matplotlib
+altair
 
